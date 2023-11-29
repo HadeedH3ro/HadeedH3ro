@@ -1,4 +1,4 @@
-![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/Banner.gif)
+![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hadeed Khan</h1>
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
