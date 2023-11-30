@@ -1,7 +1,7 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hadeed Khan</h1>
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeedh3ro&label=Profile%20views&color=0e75b6&style=flat" alt="hadeedh3ro" /> </p>
 
