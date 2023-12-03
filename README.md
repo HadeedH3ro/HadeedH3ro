@@ -1,5 +1,7 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Hadeed Khan</h1>
+<text align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /></text>
+<h1 align="center"> Hi 👋, I'm Muhammad Hadeed Khan</h1>
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
