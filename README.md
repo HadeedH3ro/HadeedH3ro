@@ -1,16 +1,10 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
-<text align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /></text>
 <h1 align="center"> Hi 👋, I'm Muhammad Hadeed Khan</h1>
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeedh3ro&label=Profile%20views&color=0e75b6&style=flat" alt="hadeedh3ro" /> </p>
-
 - 🌱 I’m currently learning **Android Development**
-
 - 📫 How to reach me **hadeedk20050@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hadeed-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadeed-khan" height="30" width="40" /></a>
