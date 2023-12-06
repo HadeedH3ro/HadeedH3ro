@@ -3,11 +3,11 @@
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeedh3ro&label=Profile%20views&color=0e75b6&style=flat" alt="hadeedh3ro" /> </p>
-- 🔭 I’m currently working on <b>Weather App</b> <br>
-- 🌱 I’m currently learning  <b>Android Development</b> <br>
-- 📫 How to reach me <b>hadeedk20050@gmail.com</b> <br>
+- 🔭 I’m currently working on <i><b>Weather App</b></i> <br>
+- 🌱 I’m currently learning  <i><b>Android Development</b></i> <br>
+- 📫 How to reach me <i><b>hadeedk20050@gmail.com</b></i> <br>
 - 💬 Ask me about <b> Any thing you want</b> <br>
-- ⚡ Fun fact <b>Endless</b>
+- ⚡ Fun fact <i><b>Endless</b></i>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hadeed-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadeed-khan" height="30" width="40" /></a>
