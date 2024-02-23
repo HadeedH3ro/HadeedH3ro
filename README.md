@@ -16,7 +16,6 @@
 <a href=""><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="www.linkedin.com/in/muhammad-hadeed-khan-725a6524a"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Hadeed_Khan2002"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- <a href="YOUR_GMAIL_PROFILE_LINK"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/><a href="https://www.buymeacoffee.com/_HadeedKhan_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> <a href="https://stackoverflow.com/users/23053974/hadeed-khan"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a> <a href="YOUR_DISCORD_LINK"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </p>
