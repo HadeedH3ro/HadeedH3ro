@@ -1,9 +1,6 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
-<h1 align="center"> Hi 👋, I'm Muhammad Hadeed Khan<img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /></h1>
+<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px"/>  Hi 👋, I'm Muhammad Hadeed Khan<img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /></h1>
 <h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
-
-<!--<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeedh3ro&label=Profile%20views&color=0e75b6&style=flat"alt="hadeedh3ro" /> </p>-->
 
 - 🔭 I’m currently working on <i><b>Weather App</b></i> <br>
 - 🌱 I’m currently learning  <i><b>Android Development</b></i> <br>
@@ -16,7 +13,8 @@
 <a href=""><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="www.linkedin.com/in/muhammad-hadeed-khan-725a6524a"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Hadeed_Khan2002"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<br/><a href="https://www.buymeacoffee.com/_HadeedKhan_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> <a href="https://stackoverflow.com/users/23053974/hadeed-khan"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a> <a href="YOUR_DISCORD_LINK"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br/><a href="https://www.buymeacoffee.com/_HadeedKhan_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> <a href="https://stackoverflow.com/users/23053974/hadeed-khan"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a> 
+  <a href="https://discord.com/channels/@me"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </p>
 ***<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools </h3>***
@@ -126,7 +124,9 @@
   
 <!--  Working on it ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeAshing&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadeedh3ro&theme=sunset)](https://github.com/hadeedh3ro)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeedh3ro&show_icons=true&locale=en&layout=compact" alt="hadeedh3ro" /></p> <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadeedh3ro&show_icons=true&locale=en" alt="hadeedh3ro" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadeedh3ro&background=30,e96443,904e95&theme=sunset&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff)](https://github.com/hadeedh3ro)
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeedh3ro&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="hadeedh3ro"/>
+</p> <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hadeedh3ro&show_icons=true&locale=en&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="hadeedh3ro" />
+</p>
